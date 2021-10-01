@@ -1,0 +1,26 @@
+body{
+    background-color: black;
+}
+.home{
+    height: 100vh;
+    background: linear-gradient(
+        rgba(0,0,0,0.8), 
+        rgba(0,0,0,0.1)),
+        url(../images/desk_background.png);
+    background-size: cover;
+}
+.intro{
+    color: whitesmoke;
+    padding: 0% 27%;
+    text-align: justify;
+    font-size: 18px;
+    font-weight: 200;
+}
+
+.name{
+    font-size: 50px;
+}
+
+.jobTitle{
+    font-weight: 200;
+}
